@@ -1,0 +1,4 @@
+(executable
+ (public_name not_database)
+ (name main)
+ (libraries not_database))
