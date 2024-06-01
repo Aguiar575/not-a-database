@@ -1,2 +1,5 @@
 (library
- (name not_database))
+ (name nlp_lib)
+ (public_name not_database.nlp_lib)
+ (modules lexer))
+ 
